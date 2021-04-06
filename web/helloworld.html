@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+//************************************************          
+        // alert("HelloWorld!");
+        // document.write("哥，你真帅!");
+        // console.log("猜猜我在哪！");
+        // function myfunc(){
+        //     document.getElementById('in').style.backgroundColor:#bfa;
+        // }
+
+        // window.alert("我是对象的方法");
+//alert 默认为window的方法
+//************************************************     
+        //var a = 10;
+        //var b = 8;
+        // window.alert("13"-8);  //5
+        // window.alert("anwser:"+a+b);
+//************************************************          
+        /* if(window.confirm('Are you sure?')==true){
+            alert("Successed!");
+        }
+        else {
+            alert("Canceled!");
+        } */
+//************************************************  
+        // if (window.prompt("Please sign in:","000") ==520){
+        //     alert('Accecssed!');
+        // }
+        // else
+        //     alert('Denied!');
+//************************************************  
+        var input1 = document.getElementById('in');//根据id
+        input1.style.backgroundColor = 'red';
+        input1.style.width = '800px';
+        input1.style.fontSize = '50px';
+//************************************************  
+        var arr = d/*  */ocument.getElementsByTagName('input');
+        var arr = document.getElementsByClassName('dog');//选择类
+            //- arr可以通过下标访问，0开始，即与数组一致；
+        
+        var ele = document.querySelector('h2');//通过选择器选择元素,若有多个符合，则选取第一个元素
+        var ele = document.querySelector('#in');
+        var ele = document.querySelector('.dog');
+        var ele = document.querySelector('input [type="text"]');
+
+
+    </script>
+</head>
+<body>
+    <input type="text" name="" id="in" class="dog">
+</body>
+</html>
