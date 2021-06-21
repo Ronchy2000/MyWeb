@@ -18,7 +18,7 @@ And Thank You All!**
 
 <div class="intro">
     <h2 class="subtitle">LET ME INTRODUCE MYSELF.</h2>
-    <h4 class="hello">Hello!</h2>
+    <h4 class="hello">Hello!</h4>
     <span>I'M Ronchy LU.</span>
 </div>
 <div class="summary">
