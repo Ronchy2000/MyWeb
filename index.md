@@ -1,17 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to Ronchy's Pages
 
-You can use the [editor on GitHub](https://github.com/Ronchy2000/MyWeb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [GitPages](https://github.com/Ronchy2000) to acquire information about Ronchy's repository.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Introduction
 
 This is Ronchy.
 
 
 Please pick me!
 
-## Thank You All.
+= Thank You All. =
 ```markdown
 Syntax highlighted code block
 
