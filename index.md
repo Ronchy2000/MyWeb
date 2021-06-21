@@ -11,10 +11,11 @@ You can use the [GitPages](https://github.com/Ronchy2000) to acquire information
 Pick me!
     
 
-**Best Wishes!
-And Thank You All!**
+**Best Wishes!**
+**And Thank You All!**
 
 <hr>
+
 <div class="intro">
     <h2 class="subtitle">LET ME INTRODUCE MYSELF.</h2>
     <h4 class="hello">Hello!</h4>
@@ -37,10 +38,8 @@ And Thank You All!**
     <div class="tel"> Tel:+8618903403141</div>
     <div class="university"> University:SICNU</div>
 </div>
-</div>
-<div class="img">
     <img src="../exercise/img/01/myimg.png" alt="Pictures">
-</div>
+
 
            
 ### Jekyll Themes
