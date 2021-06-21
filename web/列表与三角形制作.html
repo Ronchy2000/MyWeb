@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            padding: 0;
+            margin:0;   
+        }
+        h2{
+            text-align: center;
+        }
+        .div{
+            position: relative;
+            margin-top: 50px;
+            width: 250px;
+            height: 180px;
+            padding: 20px;
+            border: 20px solid #bfa;
+            /* outline: 20px solid blue; */
+            left: 400px;
+            border-radius: 50% 50%;  /*只对border有效果*/
+            
+            box-shadow: -20px 0px 100px orange,
+                         0px 20px 100px purple ,
+                         20px 0px 100px #bfa,
+                         0px -20px 100px red;
+            box-shadow:  0px 0px 0px 20px orange,
+                         0px 0px 0px 40px purple ,
+                         0px 0px 0px 60px #bfa,
+                         0px 0px 0px 80px red;
+        }
+        .div2 ul{
+            position: relative;
+            left: 30%;
+            font-size: 28px;
+            /* list-style-type: square; */
+        }
+
+        .div2 ol{
+            position: relative;
+            left: 30%;
+            font-size: 28px;
+        }
+
+        .div3{
+            position: relative;
+            left: 30%;
+            font-size: 28px;
+            margin: top;
+            border:100px solid transparent;  
+        }
+        
+    </style>
+</head>
+<body>
+    <h2>列表与三角形制作</h2>
+    <!-- <div class="div"><img src="" alt=""></div> -->
+    <div class="div2">
+        <ul > <!-- typy="None"--> 
+            <li>我是无序列表内容！块元素</li>
+            <li>我是无序列表内容！块元素</li>
+            <li>我是无序列表内容！块元素</li>
+            <li>我是无序列表内容！块元素</li>
+            <li>我是无序列表内容！块元素</li>
+        </ul>
+
+        <ol type="A">
+            <li>我是有序列表</li>
+            <li>我是有序列表</li>
+            <li>我是有序列表</li>
+            <li>我是有序列表</li>
+            <li>我是有序列表</li>
+        </ol>
+    </div>
+
+    <div class="div3">
+
+    </div>
+</body>
+</html>

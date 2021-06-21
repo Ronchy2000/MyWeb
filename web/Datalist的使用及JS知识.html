@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        body{
+            width:80%;
+            height: 700px;
+            
+        }
+        input{
+            display: block;
+
+        }
+    </style>
+</head>
+<body>
+    <h2>details Datalist的使用以及JS知识</h2>
+    <p>我是RRonchy</p>
+    <p>如果可以夸张，我是超级帅</p>
+
+    <!-- <p>详细信息</p> -->
+    <details open>
+        <p>目前我还没有女朋友</p>
+        <p>我偶尔打打游戏</p>
+        <p>没有存款</p>
+    </details>
+    <br>
+    <hr>
+    <button onclick="document.getElementById('demo').innerHTML=Date()">时间是？</button>
+    <form action="">
+        <label for="">籍贯：</label>
+        <input type="text" list="mylist">
+        <label for="">出生地：</label>
+        <input type="text" list="mylist">
+
+        <label for="">喜欢的汽车:</label>
+        <select name="" id="" onchange="show(this.value);">
+            <option value=""></option>
+            <option value="奔驰">奔驰</option>
+            <option value="宝马">宝马</option>
+            <option value="Audi">Audi</option>
+            <option value="Tesla">Tesla</option>
+            <option value="GTR">GTR</option>
+        </select>
+    </form>
+</body>
+<datalist id="mylist">
+    <option value="sichuan">sichuan</option>
+    <option value="shanxi">shanxi</option>
+    <option value="shannxi">shannxi</option>
+    <option value="guangdong">guangdong</option>
+    <option value="Beijing">Beijing</option>
+    <option value="Hunan">Hunan</option>
+    <option value="Hubei">Hubei</option>
+</datalist>
+
+<script>
+    function show(val){
+        alert(val);
+    }
+</script>
+</html>
