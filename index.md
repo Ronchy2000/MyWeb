@@ -15,7 +15,6 @@ Pick me!
 And Thank You All!**
 
 <hr>
-
 <div class="intro">
     <h2 class="subtitle">LET ME INTRODUCE MYSELF.</h2>
     <h4 class="hello">Hello!</h4>
@@ -23,11 +22,6 @@ And Thank You All!**
 </div>
 <div class="summary">
     I love to work in User Experience & User Interface designing.</div>  
-<ul class="list1">
-    <li>Full Name:Ronchy</li>
-    <li>Email:<a href="https://mail.qq.com/cgi-bin/frame_html?sid=d></a></li>
-    <li>Address:ShanXi </li>
-</ul>
 <ul class="list2">
     <li>Birth Date:07-05-2000</li>
     <li>Tel:18903403141</li>
@@ -39,9 +33,9 @@ And Thank You All!**
     <div class="address">Address:ChengDu SiChuan</div>
 </div>
 <div class="catlog2">
-    <div class="birth">Birth Date:07-05-2000</div>
-    <div class="tel">Tel:+8618903403141</div>
-    <div class="university">University:SICNU</div>
+    <div class="birth"> Birth Date:07-05-2000</div>
+    <div class="tel"> Tel:+8618903403141</div>
+    <div class="university"> University:SICNU</div>
 </div>
 </div>
 <div class="img">
