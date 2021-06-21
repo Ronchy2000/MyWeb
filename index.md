@@ -2,7 +2,7 @@
 
 You can use the [GitPages](https://github.com/Ronchy2000) to acquire information about Ronchy's repository.
 
-### Introduction
+## Introduction
 
 `This is Ronchy.`
 
