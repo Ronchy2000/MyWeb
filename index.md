@@ -18,7 +18,7 @@ Pick me!
 
 <div class="intro">
     <h2 class="subtitle">LET ME INTRODUCE MYSELF.</h2>
-    <h4 class="hello">Hello!</h4>
+    <h3 class="hello">Hello!</h3>
     <span>I'M Ronchy LU.</span>
 </div>
 <div class="summary">
@@ -38,7 +38,7 @@ Pick me!
     <div class="tel"> Tel:+8618903403141</div>
     <div class="university"> University:SICNU</div>
 </div>
-    <img src="../exercise/img/01/myimg.png" alt="Pictures">
+   !src[]
 
 
            
