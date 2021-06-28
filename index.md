@@ -1,41 +1,18 @@
 # Welcome to Ronchy's Pages
 
-You can use the [GitPages](https://github.com/Ronchy2000) to acquire information about Ronchy's repository.
+你可以通过 [GitPages](https://github.com/Ronchy2000) 来获取我的GitHub代码仓库。
 
 ## Introduction
 
 `This is Ronchy.`
 
-   I love to work in User Experience & User Interface designing. Because I love to solve the design problem and find easy and better solutions to solve it. I always try my best to make good user interface with the best user experience.
+   
 
-Pick me!
+陆荣琦同学，对科研工作认真负责，积累了一年多的研发经验。熟练掌握C、C++、Python、Matlab、JavaScript等语言，熟悉QT、PYQT、HTML、CSS相关知识，了解嵌入式开发相关过程，做过界面开发，深度学习等工作，熟悉基本的深度学习模型的网络结构搭建、数据处理等流程，对项目管理具有一定的经验。多次参加大学生竞赛，曾在2021年全国大学生服务外包创新创业大赛获得国家三等奖，十二届蓝桥杯中获得省级三等奖。
     
 
 **Best Wishes!**
 **And Thank You All!**
 
 <hr>
-
-<div class="intro">
-    <h2 class="subtitle">LET ME INTRODUCE MYSELF.</h2>
-    <h3 class="hello">Hello!</h3>
-    <span>I'M Ronchy LU.</span>
-</div>
-<div class="summary">
-    I love to work in User Experience & User Interface designing.</div>  
-<ul class="list2">
-    <li>Birth Date:07-05-2000</li>
-    <li>Tel:18903403141</li>
-    <li>University:SICNU </li>
-</ul>
-<div class="catlog">
-    <div class="name">Full Name:Ronchy Lu</div>
-    <div class="email">Email:<a href="">1781106906@qq.com</a></div>
-    <div class="address">Address:ChengDu SiChuan</div>
-</div>
-<div class="catlog2">
-    <div class="birth"> Birth Date:07-05-2000</div>
-    <div class="tel"> Tel:+8618903403141</div>
-    <div class="university"> University:SICNU</div>
-</div>
 
